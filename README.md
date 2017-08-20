@@ -1,7 +1,10 @@
 # hydrology
+Pasta com scripts úteis para lidar com dados de Hidrologia.
+
+## baixar-dados-ana
 Tentando automatizar o download e analisar de dados da ANA com Python.
 
-## status atual
+### status atual
 Código de download encontrado. Testando com diferentes listas de estações.
 
 Ainda não está 100%. Dá erro até mesmo nas estações (códigos) indicados como exemplo (só funciona o primeiro: 02751025)
@@ -12,3 +15,6 @@ Analisando a página e as urls geradas. Problema está que não é gerado o link
 - Ou, existe outras formas que os links aparecem na página para cada estação?
 
 Analisando com ipbd.
+
+## concatenar-dados-datalogger
+Rotinas úteis para preparar os dados de data loggers em arquivos únicos de fácil manipulação. Exemplos de manipulação com Pandas.
