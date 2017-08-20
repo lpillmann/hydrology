@@ -1,0 +1,10 @@
+
+Design Analysis
+Waterlog -- H-500-XL DATA FILE
+Sensor Serial # = S#003091   V4.30 
+Filename = Bug_RB10.026
+
+    Date     Time     Batt    SDI01    SDI07     Ana1
+MM/DD/YY HH:MM:SS Battery  NTU      Temp     Nivel(m)
+     NOW      NOW      NOW      NOW      NOW      NOW
+14/07/13 17:10:00    12.35  249.010    13.00    0.233
